@@ -2,3 +2,5 @@
 
 I'm using this repository for the Python exercice; it has no other purpose than this.
 
+My project:
+https://gillem.github.io/thorin-flask-app/.
